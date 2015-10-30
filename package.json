@@ -1,0 +1,61 @@
+{
+  "name": "@emiw/redstone-dispatcher",
+  "description": "The dispatcher for redstone",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "gulp test",
+    "test:cov": "gulp test:cov",
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "lint": "gulp lint",
+    "travis": "gulp travis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiw/redstone-dispatcher.git"
+  },
+  "author": {
+    "name": "Ari Porad",
+    "email": "ari@emiw.xyz",
+    "url": "http://ariporad.com"
+  },
+  "contributors": [
+    {
+      "name": "Zoe Carver",
+      "email": "zoe@emiw.xyz"
+    }
+  ],
+  "devDependencies": {
+    "babel": "5",
+    "babel-eslint": "4",
+    "chai": "3",
+    "chai-as-promised": "5",
+    "coveralls": "2",
+    "cz-conventional-changelog": "1",
+    "del": "2",
+    "eslint": "1",
+    "eslint-config-airbnb": "0.1",
+    "gulp": "3",
+    "gulp-babel": "5",
+    "gulp-changed": "1",
+    "gulp-eslint": "1",
+    "gulp-sourcemaps": "1",
+    "gulp-util": "3",
+    "load-deps": "1",
+    "mocha": "2",
+    "require-dir": "0.3",
+    "rewire": "2",
+    "sinomocha": "0.2",
+    "sinon": "1",
+    "sinon-chai": "2",
+    "source-map-support": "0.3"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/emiw/redstone-dispatcher/issues"
+  },
+  "homepage": "https://github.com/emiw/redstone-dispatcher#readme",
+  "dependencies": {
+    "bluebird": "^3.0.2"
+  }
+}

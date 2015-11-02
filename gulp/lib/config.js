@@ -61,6 +61,7 @@ config.mocha = {
 config.babel = {
   opts: {
     babelrc: basePath('.babelrc'),
+    // sourceRoot: config.basePath,
   },
 };
 

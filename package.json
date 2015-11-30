@@ -47,13 +47,13 @@
     "portfinder": "0.4.0",
     "proxyquire": "1.7.3",
     "require-dir": "0.3.0",
-    "rewire": "2.5.0",
+    "rewire": "2.5.1",
     "sinomocha": "0.2.4",
     "sinon": "1.17.2",
     "sinon-chai": "2.8.0",
     "source-map-support": "0.3.3"
   },
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/emiw/redstone-dispatcher/issues"
   },
@@ -68,6 +68,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "license": "SEE LICENSE IN LICENSE.md"
+  }
 }

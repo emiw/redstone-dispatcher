@@ -31,7 +31,7 @@
     "chai": "3.4.1",
     "chai-as-promised": "5.1.0",
     "coveralls": "2.11.4",
-    "cz-conventional-changelog": "1.1.4",
+    "cz-conventional-changelog": "1.1.5",
     "del": "2.1.0",
     "eslint": "1.10.3",
     "eslint-config-airbnb": "0.1.0",

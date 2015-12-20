@@ -29,7 +29,7 @@
     "babel": "5.8.34",
     "babel-eslint": "4.1.6",
     "chai": "3.4.1",
-    "chai-as-promised": "5.1.0",
+    "chai-as-promised": "5.2.0",
     "coveralls": "2.11.4",
     "cz-conventional-changelog": "1.1.4",
     "del": "2.1.0",

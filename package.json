@@ -41,7 +41,7 @@
     "babel-preset-stage-0": "6.3.13",
     "coveralls": "2.11.4",
     "cz-conventional-changelog": "1.1.4",
-    "eslint": "1.10.3",
+    "eslint": "2.5.0",
     "eslint-config-airbnb": "0.1.0",
     "nyc": "^5.0.1",
     "portfinder": "0.4.0",

@@ -45,7 +45,7 @@
     "eslint-config-airbnb": "0.1.0",
     "nyc": "^5.0.1",
     "portfinder": "0.4.0",
-    "proxyquire": "1.7.3",
+    "proxyquire": "1.7.9",
     "rewire": "2.5.0"
   },
   "license": "SEE LICENSE IN LICENSE.md",
